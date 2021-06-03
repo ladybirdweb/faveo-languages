@@ -1,1 +1,1 @@
-# faveo-languages for web
+# faveo-languages
