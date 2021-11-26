@@ -1,0 +1,100 @@
+export default {  
+    /* User login Page */
+    SINGIN: 'भीतर जाना',
+    REMEMBERME: 'याद रखना',
+    USERNAME: 'उपयोगकर्ता नाम',
+    PASSWORD: 'कुंजिका',
+    LOGIN: 'अंदर जाना',
+    LDAP: 'एलडीएपी',
+    FIELDVALID : "यह फ़ील्ड आवश्यक है",
+    SEND : "अंदर जाना",
+    LOGINDISCT : "अपना सत्र शुरू करने के लिए लॉगिन करें",
+    CREATEACCOUNT : "रजिस्टर करें",
+    CHANGELANGAUGE : "भाषा बदलो",
+    EMAILUSERNAME : "ईमेल / प्रयोक्ता नाम" ,
+    USERNAMELABEL : "तुम्हारा प्रयोगकर्ती नाम",
+    PASSWORDPLACEHOLDER : "आपका पासवर्ड",
+    /* Flash Screen page */
+    FLASHTITLE : "ग्राहक सहायता को सरल बनाना",
+    /* 2fa Screen page */
+    TWOFADISCRIPTION : "अपना प्रमाणीकरण कोड देखने और अपनी पहचान सत्यापित करने के लिए अपने डिवाइस पर दो-कारक प्रमाणीकरण ऐप खोलें।",
+    TWOFATITLE : "दो चरण सत्यापन",
+    TWOFAENTERCODE : "अपने Google प्रमाणक के लिए कोड दर्ज करें",
+     /* Update Email Screen page */
+    UPDATEEMAIL : "ईमेल अपडेट करें",
+    ALREADYACTIVATED : "खाता पहले से सक्रिय है",
+     /* Verify Email Screen page */
+    VERIFYCONTAINONE : "हैलो!",
+    VERIFYCONTAINTWO : "हमने एक सक्रियण लिंक भेजा है" ,
+    VERIFYCONTAINTHREE : ". कृपया अपना मेलबॉक्स जांचें और अपने खाते को सक्रिय करने के लिए लिंक पर क्लिक करें फिर प्रयास करें।",
+    RESENDLINK : "रिज़र्व गतिविधि लिंक",
+    VERIFYOR : "या",
+    VERIFYEMAILUPDATE : "अद्यतन ईमेल",
+     /* OOPS Screen page */
+    OOPS : "कृपया व्यवस्थापन से जुड़ें",
+       /* Inbox Screen page */
+    NOTICKETFOUND : "कोई टिकट नहीं मिला।",
+    TICKET : "टिकट",
+    LOADING : "लोड हो रहा है",
+     /* Drawer Screen page */
+    CREATETICKET : 'टिकट बनाएँ',
+    MYTICKET : "मेरा टिकट",
+    PERSONALINFO : "व्यक्तिगत जानकारी",
+    ABOUTUS : "हमारे बारे में",
+    SINGOUT : "प्रस्थान करें",
+    LOGOUT : "लॉग आउट",
+    LOGOUTMASSAGE : "क्या आप लॉगआउट करना चाहते हैं?",
+    SEARCHTICKET : "टिकट खोजें",
+    RENEWAL : "नवीकरण योजना",
+    CONFORM : "पुष्टि करें",
+     /* About Screen page */
+    FAVEOSUPPORT : "FAVEO SUPPORT",
+    VERSION : "संस्करण 2.2.0",
+    ABOUTUSDISCRIPTION : "बेंगलुरु में मुख्यालय, Faveo हेल्पडेस्क ग्राहकों को स्वचालित सेवा के साथ व्यापार सहायता प्रदान करता है। Faveo शब्द लैटिन से आया है जिसका अर्थ है अनुकूल होना। जो वास्तव में दृष्टि और कार्यक्षेत्र के साथ-साथ उस उत्पाद की कार्यक्षमता को उजागर करता है जो Faveo है। यह विशेष रूप से स्टार्टअप्स और एसएमई की सभी जरूरतों को पूरा करने के लिए डिज़ाइन किया गया है, जो उन्हें अत्याधुनिक, टिकट आधारित सहायता प्रणालियों के साथ सशक्त बनाता है। इस समर्थन उपकरण का उपयोग विभिन्न उद्योग के लोग आंतरिक समर्थन के रूप में करते हैं और ग्राहकों को समर्थन या आउटबाउंड भी करते हैं। आज के प्रतिस्पर्धी स्टार्टअप परिदृश्य में ग्राहक अवधारण एक बड़ी चुनौती है। क्लाइंट प्रश्नों को निष्ठापूर्वक संभालना लंबे समय तक चलने वाले रिश्ते को बनाए रखने या खोने के बीच का अंतर है। कंपनी रणनीतिक अंतर्दृष्टि के लिए उपभोक्ता प्रश्नों के प्रबंधन के लिए उपकरण प्रदान करने और कंपनियों को उन निर्णयों को लेने में मदद करने के लिए जुनून से प्रेरित है। अब सपोर्ट ऐप / पोर्टल काफी लचीला है और इसका उपयोग एजेंट्स के साथ-साथ दुनिया भर में उपलब्ध ग्राहकों द्वारा भी किया जा सकता है। हम हेल्पडेस्क सिस्टम का उपयोग करने के लिए उपयोगकर्ताओं को एक समर्थन ऐप पेश करने की कृपा करते हैं क्योंकि आप वास्तव में इसका उपयोग करते हैं।",
+    WEBSITE : "वेबसाइट",
+    WEBDETAIL : "www.faveohelpdesk.com",
+    /* Create Ticket Screen page */
+    CREATETICKET : "टिकट बनाएँ",
+    RETAKE : 'फिर से लेना',
+    USEPHOTO : "उपयोग करें",
+    SEE : "मुझे देखने के लिए क्लिक करें",
+    ATTACHED : "आपकी संलग्न फ़ाइलें",
+    DONE : "किया हुआ",
+    NOMATCHFOUNDS : "कोई मेल नहीं मिला।",
+    CANCEL : "रद्द करें",
+    CLICKHERESEECC : "जोड़ा सीसी देखने के लिए यहां क्लिक करें: ",
+    ADDCC : "सीसी जोड़ें",
+    DATEFORMATDISCRIPTION : "तारीख DD/MM/YYYY प्रारूप में होनी चाहिए",
+    EMAILFORMATDISCRIPTION : "कृपया एक मान्य ईमेल पता लिखें",
+    ADDEDCC : "सीसी जोड़ें",
+    NUMBERDISCRIPTION : "इनपुट में केवल संख्याएँ होनी चाहिए",
+    LEAVEREPLY : "संदेश छोड़ दें",
+    EMAILFORMAT : "ईमेल पता दर्ज करें",
+    ENTERTHEVALUE : "मान दर्ज करें",
+    SEARCH : "Search...",
+    SELECT : "Select",
+    SEARCHDATE : "Select Date",
+     /* User Registation page */
+   REGISTATIONTITLE : "रजिस्टर करें",
+   SUBMIT : "प्रस्तुत",
+   PROFILEEDIT : "प्रोफ़ाइल संपादित करें",
+   CHOOSELANGUAGE : "भाषा चुनें",
+   UPDATEPROFILE : "प्रोफ़ाइल अपडेट करें",
+   /* Forgot Password page */
+     /* Ticket Thread Screen page */
+    DOWNLOAD : "डाउनलोड",
+    TAPREPLY : "जवाब दे",
+    SELECTLANGUAGE : "सेटिंग",
+      /* Forgot Password page */
+   WEKNOWPASSWORD : "मुझे अपना पासवर्ड पता है",
+   CHANGEPASSWORD : "भेजें",
+   FORGOTPASSWORD : "पासवर्ड प्राप्त करें",
+   CPASSWORD : "पासवर्ड बदलें",
+   UPDATE : "अपडेट करें",
+   /* Every Page */
+   APIDISABLED : "वर्तमान में एपीआई बंद है",
+   INTERNETERROR : "कृपया इंटरनेट कनेक्शन की जाँच करें।",
+   RETRY : "पुन: प्रयास करें",
+   /* reply page */
+   LEAVEREPLY : "उत्तर छोड़ दें"
+  };

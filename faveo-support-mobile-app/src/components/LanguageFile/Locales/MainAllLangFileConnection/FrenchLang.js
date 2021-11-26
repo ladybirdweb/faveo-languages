@@ -1,0 +1,96 @@
+export default {  
+  /* User login Page */
+  SINGIN: 'SE CONNECTER',
+  REMEMBERME: 'Souviens-toi de moi',
+  USERNAME: 'Nom d\'utilisateur',
+  PASSWORD: 'Mot de passe',
+  LOGIN: 'S\'IDENTIFIER',
+  LDAP: 'CONNEXION VIA LDAP',
+  FIELDVALID : "Ce champ est requis",
+  SEND : "SE CONNECTER",
+  LOGINDISCT : "Connectez-vous pour démarrer votre session",
+  CREATEACCOUNT : "S'inscrire",
+  CHANGELANGAUGE : "Changer de langue",
+  EMAILUSERNAME : "Email / nom d'utilisateur" ,
+  /* Flash Screen page */
+  FLASHTITLE : "Simplifier le support client",
+  /* 2fa Screen page */
+  TWOFADISCRIPTION : "Ouvrez l'application d'authentification à deux facteurs sur votre appareil pour afficher votre code d'authentification et vérifier votre identité.",
+  TWOFATITLE : "Vérification en deux étapes",
+  TWOFAENTERCODE : "Entrez le code dans votre authentificateur Google",
+   /* Update Email Screen page */
+  UPDATEEMAIL : "Mettre à jour l'e-mail",
+  ALREADYACTIVATED : "Compte déjà activé",
+   /* Verify Email Screen page */
+  VERIFYCONTAINONE : "salut!",
+  VERIFYCONTAINTWO : "Nous avons envoyé un lien d'activation à" ,
+  VERIFYCONTAINTHREE : ". Veuillez vérifier votre boîte mail et cliquer sur le lien pour activer votre compte puis réessayer.",
+  RESENDLINK : "RENVOYER LE LIEN D'ACTIVATION",
+  VERIFYOR : "ou",
+  VERIFYEMAILUPDATE : "MISE À JOUR EMAIL",
+   /* OOPS Screen page */
+  OOPS : "Veuillez vous connecter avec l'administrateur",
+     /* Inbox Screen page */
+  NOTICKETFOUND : "Aucun billet trouvé.",
+  TICKET : "Des billets",
+  LOADING : "CHARGEMENT",
+   /* Drawer Screen page */
+  CREATETICKET : 'Créer un ticket',
+  MYTICKET : "Mon billet",
+  PERSONALINFO : "Personal Info",
+  ABOUTUS : "À propos de nous",
+  SINGOUT : "Déconnexion",
+  LOGOUT : "Se déconnecter",
+  LOGOUTMASSAGE : "Voulez-vous vous déconnecter?",
+  SEARCHTICKET : "Rechercher un billet",
+  RENEWAL : "Plan de renouvellement",
+  CONFORM : "Confirmer",
+   /* About Screen page */
+  FAVEOSUPPORT : "Faveo Support",
+  VERSION : "Version 2.2.0",
+  ABOUTUSDISCRIPTION : "Basée à Bengaluru, le helpdesk Faveo fournit une assistance commerciale avec un service automatisé aux clients. Le mot Faveo vient du latin qui signifie être favorable. Ce qui met vraiment en évidence la vision et la portée ainsi que la fonctionnalité du produit qu'est Faveo. Il est spécialement conçu pour répondre à tous les besoins des startups et des PME en leur donnant les moyens de disposer de systèmes de support à la pointe de la technologie basés sur des tickets. Cet outil de support est utilisé par diverses personnes de l'industrie comme support interne et également pour les clients de support ou sortants. Dans le scénario de démarrage concurrentiel d’aujourd’hui, la fidélisation de la clientèle est l’un des défis majeurs. Traiter les requêtes des clients avec diligence fait toute la différence entre conserver ou perdre une relation durable. L'entreprise est animée par la passion de fournir des outils de gestion des requêtes des consommateurs pour obtenir des informations stratégiques et d'aider les entreprises à prendre ces décisions décisives. Maintenant, l'application / le portail d'assistance est suffisamment flexible et peut être utilisé par les agents ainsi que par les clients accessibles dans le monde entier. Nous sommes heureux de présenter une application de support aux utilisateurs pour accéder au système de support technique lorsque vous l'utilisez réellement.",
+  WEBSITE : "SITE INTERNET",
+  WEBDETAIL : "www.faveohelpdesk.com",
+  /* Create Ticket Screen page */
+  CREATETICKET : "Créer un ticket",
+  RETAKE : 'Reprendre',
+  USEPHOTO : "Utilise le",
+  SEE : "Cliquez moi pour voir",
+  ATTACHED : "Vos fichiers joints",
+  DONE : "Terminé",
+  NOMATCHFOUNDS : "Pas de résultat trouvé.",
+  CANCEL : "Annuler",
+  CLICKHERESEECC : "Cliquez ici pour voir les CC ajoutés: ",
+  ADDCC : "Ajouter CC",
+  DATEFORMATDISCRIPTION : "La date doit être au format DD/MM/YYYY",
+  EMAILFORMATDISCRIPTION : "Veuillez saisir une adresse e-mail valide",
+  ADDEDCC : "Ajoutée CC",
+  NUMBERDISCRIPTION : "L'entrée ne doit être constituée que de chiffres",
+  EMAILFORMAT : "Entrez l'adresse e-mail",
+  ENTERTHEVALUE : "Entrez la valeur",
+  SEARCH : "Chercher...",
+  SELECT : "Sélectionner",
+  SEARCHDATE : "Sélectionner une date",
+   /* Ticket Thread Screen page */
+  DOWNLOAD : "Download",
+  TAPREPLY : "Réponse",
+  SELECTLANGUAGE : "Réglage",
+  /* User Registation page */
+  REGISTATIONTITLE : "S'inscrire",
+  SUBMIT : "Soumettre",
+  PROFILEEDIT : "Editer le profil",
+  CHOOSELANGUAGE : "Choisissez la langue",
+  UPDATEPROFILE : "Mettre à jour le profil",
+   /* Forgot Password page */
+  WEKNOWPASSWORD : "Je connais mon mot de passe",
+  CHANGEPASSWORD : "Envoyer",
+  FORGOTPASSWORD : "Mot de passe oublié",
+  CPASSWORD : "Changer le mot de passe",
+  UPDATE : "METTRE À JOUR",
+   /* Every Page */
+   APIDISABLED : "L'API est actuellement désactivée.",
+   INTERNETERROR : "Veuillez vérifier la connexion Internet.",
+   RETRY : "Retenter",
+   /* reply page */
+   LEAVEREPLY : "Laisser une réponse"
+};

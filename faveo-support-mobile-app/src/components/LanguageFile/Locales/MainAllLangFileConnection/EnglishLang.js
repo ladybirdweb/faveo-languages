@@ -1,0 +1,98 @@
+export default {  
+   /* User login Page */
+   SINGIN: 'SIGN IN',
+   REMEMBERME: 'Remember me',
+   USERNAME: 'Username',
+   PASSWORD: 'Password',
+   LOGIN: 'LOGIN',
+   URL: 'https://rahul-singh-iiitian.ml/lws/public',
+   LDAP: 'LOGIN VIA LDAP',
+   FIELDVALID : "This field is required",
+   SEND : "SIGN IN",
+   LOGINDISCT : "Login to start your session",
+   CREATEACCOUNT : "Register",
+   CHANGELANGAUGE : "Change Language",
+   EMAILUSERNAME : "Email/Username" ,
+   /* Flash Screen page */
+   FLASHTITLE : "Simplifying Customer Support",
+   /* 2fa Screen page */
+   TWOFADISCRIPTION : "Open the two-factor authentication app on your device to view your authentication code and verify your identity.",
+   TWOFATITLE : "Two Step Verification",
+   TWOFAENTERCODE : "Enter Code To Your Google Authenticator",
+   /* Update Email Screen page */
+   UPDATEEMAIL : "Update Email",
+   ALREADYACTIVATED : "Account already activated",
+   /* Verify Email Screen page */
+   VERIFYCONTAINONE : "Hello!",
+   VERIFYCONTAINTWO : "We have sent an activation link to" ,
+   VERIFYCONTAINTHREE : ". Please check your mailbox and click on the link to activate your account then try again.",
+   RESENDLINK : "RESEND ACTIVATION LINK",
+   VERIFYOR : "or",
+   VERIFYEMAILUPDATE : "UPDATE EMAIL",
+   /* OOPS Screen page */
+   OOPS : "Please Connect With Admin",
+   /* Inbox Screen page */
+   NOTICKETFOUND : "No tickets found.",
+   TICKET : "Tickets",
+   LOADING : "LOADING",
+   /* Drawer Screen page */
+   CREATETICKET : 'Create Ticket',
+   MYTICKET : "My Ticket",
+   PERSONALINFO : "Personal Info",
+   ABOUTUS : "About Us",
+   SINGOUT : "Sign Out",
+   LOGOUT : "Log Out",
+   LOGOUTMASSAGE : "Do you want to logout?",
+   SEARCHTICKET : "Search ticket",
+   RENEWAL : "Renewal Plan",
+   CONFORM : "Confirm",
+   /* About Screen page */
+   FAVEOSUPPORT : "Faveo Support",
+   VERSION : "Version 2.2.0",
+   ABOUTUSDISCRIPTION : "Headquartered in Bengaluru, Faveo helpdesk provides Business support with automated service to the customers. The word Faveo comes from Latin which means to be favorable. Which truly highlights the vision and the scope as well as the functionality of the product that Faveo is. It is specifically designed to cater to all the needs of startups and SME’s empowering them with state of art, ticket based support systems. This support tool is used by various industry people as Internal support and also supporting or outbound customers. In today’s competitive startup scenario customer retention is one of the major challenges. Handling client queries diligently is all the difference between retaining or losing a long-lasting relationship. The company is driven by the passion for providing tools for managing consumer queries for strategic insights and helping companies take those decisive decisions. Now Support App/portal is flexible enough and can be used by the agents as well the customers accessible worldwide. We’re pleased to present a Support App to the users to access the helpdesk system as you actually use it.",
+   WEBSITE : "WEBSITE",
+   WEBDETAIL : "www.faveohelpdesk.com",
+   /* Create Ticket Screen page */
+   CREATETICKET : "Create Ticket",
+   RETAKE : 'Retake',
+   USEPHOTO : "Use photo",
+   SEE : "Click me to see",
+   ATTACHED : "Your Attached Files",
+   DONE : "Done",
+   NOMATCHFOUNDS : "No match found.",
+   CANCEL : "Cancel",
+   CLICKHERESEECC : "Click here to see added CC: ",
+   ADDCC : "Add CC",
+   DATEFORMATDISCRIPTION : "Date must be in format DD/MM/YYYY",
+   EMAILFORMATDISCRIPTION : "Please type a valid email address",
+   EMAILFORMAT : "Enter the Email Address",
+   ADDEDCC : "Added CC",
+   NUMBERDISCRIPTION : "Input should only consist of numbers",
+   ENTERTHEVALUE : "Enter the value",
+   SEARCH : "Search...",
+   SELECT : "Select",
+   SEARCHDATE : "Select Date",
+   /* Ticket Thread Screen page */
+   DOWNLOAD : "Download",
+   TAPREPLY : "Reply",
+   SELECTLANGUAGE : "Profile Details",
+   /* User Registation page */
+   REGISTATIONTITLE : "Register",
+   SUBMIT : "Submit",
+   PROFILEEDIT : "Edit Profile",
+   CHOOSELANGUAGE : "Choose Language",
+   UPDATEPROFILE : "Update Profile",
+   /* Forgot Password page */
+   WEKNOWPASSWORD : "I know my password",
+   CHANGEPASSWORD : "Send",
+   FORGOTPASSWORD : "Forgot password",
+   CPASSWORD : "Change Password",
+   UPDATE : "UPDATE",
+   /* Every Page */
+   APIDISABLED : "API is currently disabled.",
+   INTERNETERROR : "Please check the internet connection.",
+   RETRY : "Retry",
+   LANGUAGEPRE : "Please Select Preferred Language",
+   /* reply page */
+   LEAVEREPLY : "Leave a reply"
+};
