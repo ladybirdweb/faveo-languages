@@ -20,7 +20,7 @@ Currently, Faveo doesn’t support multilingual translation at the database leve
 
 This article only covers the translation of words that are coming from a language file.
 
-**How do translate**
+**How to translate**
 
 Download the lang.php file from https://github.com/ladybirdweb/faveo-languages
 
