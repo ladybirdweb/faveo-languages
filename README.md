@@ -1,4 +1,4 @@
-#How to edit existing language and add new language in Faveo?
+# How to edit existing language and add new language in Faveo?
 
 Both Faveo Web and mobile apps are multilingual and already translated into multiple languages and can further be translated into more languages.
 
