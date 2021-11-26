@@ -34,19 +34,20 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes. All language files should
 
 Let’s say here we are using Faveo in Italian Language and we want to change the **Remember** highlighted in the below image to Ricorda and this translation is missing in the Italian language file.
 
+![Alt text](https://www.faveohelpdesk.com/wp-content/uploads/2021/11/demo1.png "Demo1")
+
 1. Here is the Screenshot from the Language file where we have to make changes.
 As we want to translate something on the Login page, we will make changes under Login on the Right Side as shown in the screenshot below
 
-
-
+![Alt text](https://www.faveohelpdesk.com/wp-content/uploads/2021/11/demo2.png "Demo2")
 
 2. Let's make changes and save.
 
-
-
+![Alt text](https://www.faveohelpdesk.com/wp-content/uploads/2021/11/demo3.png "Demo3")
 
 3. Once this is saved in the Italian language file and we reopen the client panel URL the new translation is applied 
 
+![Alt text](https://www.faveohelpdesk.com/wp-content/uploads/2021/11/demo4.png "Demo4")
 
 If after translating and updating the language pack you still see the words in English it's because Faveo also has different modules and plugins which need to be translated independently. Uploading the language file package via admin panel settings currently does not update these plugins and modules. To translate them follow the steps mentioned below 
 
